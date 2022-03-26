@@ -1,0 +1,24 @@
+.chart-bar {
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chart-bar__inner {
+  height: 100%;
+  background-color: #acacac;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 1px;
+  border: 1px solid black;
+  width: 1rem;
+}
+
+.chart-bar__fill {
+  border-radius: 12px;
+  transition: height 1s;
+}

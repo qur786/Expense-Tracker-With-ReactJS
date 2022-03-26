@@ -1,0 +1,18 @@
+.expenseFilter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.expenseFilter__title {
+    color: #eee;
+}
+
+.expenseFilter__year {
+    border-radius: 12px;
+    padding: 10px 30px;
+    height: 70%;
+    margin: auto 5px;
+    border: none;
+    background-color: #acacac;
+}

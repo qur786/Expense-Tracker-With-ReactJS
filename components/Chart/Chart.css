@@ -1,0 +1,9 @@
+.chart {
+    height: 12rem;
+    margin: 2rem auto;
+    border: 1px white solid;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    background-color: bisque;
+}
